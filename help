@@ -1,0 +1,88 @@
+index.html
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bloom and Grow Academy</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fdfaf6;
+      color: #333;
+    }
+
+    header {
+      background: #d8c3a5;
+      padding: 40px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+
+    .hero {
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    footer {
+      background: #d8c3a5;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Bloom and Grow Academy</h1>
+  <p>Nurturing Little Minds for a Bright Future</p>
+</header>
+
+<section class="hero">
+  <h2>Welcome to Bloom and Grow Academy</h2>
+  <p>
+    A safe, loving, and enriching environment where children can learn, grow, and thrive.
+  </p>
+</section>
+
+<section class="section">
+  <h2>Our Infant Program</h2>
+  <p>
+    At Bloom and Grow Academy, our Infant Program provides a safe,
+    loving, and nurturing environment where your baby can grow emotionally,
+    socially, and developmentally.
+  </p>
+</section>
+
+<section class="section">
+  <h2>Contact Us</h2>
+  <p>
+    Bloom and Grow Academy<br>
+    5029 Edgewater Dr<br>
+    Orlando, FL 32810<br><br>
+
+    Email: bloom.growacademy@gmail.com<br>
+    Phone: 407-203-3985
+  </p>
+</section>
+
+<footer>
+  © 2026 Bloom and Grow Academy
+</footer>
+
+</body>
+</html>
